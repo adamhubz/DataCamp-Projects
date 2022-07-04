@@ -1,9 +1,7 @@
-# Classify Song Genres from Audio Data
-**Python projects on DataCamp**
-
-Rock or rap? Apply machine learning methods in Python to classify songs into genres.
+# A New Era of Data Analysis in Baseball
+Use MLB's Statcast data to compare New York Yankees sluggers Aaron Judge and Giancarlo Stanton.
 
 ## Project Description
-Using a dataset comprised of songs of two music genres (Hip-Hop and Rock), you will train a classifier to distinguish between the two genres based only on track information derived from Echonest (now part of Spotify). You will first make use of pandas and seaborn packages in Python for subsetting the data, aggregating information, and creating plots when exploring the data for obvious trends or factors you should be aware of when doing machine learning.
+There's a new era of data analysis in baseball. Using a new technology called Statcast, Major League Baseball is now collecting the precise location and movements of its baseballs and players. In this project, you will use Statcast data to compare the home runs of two of baseball's brightest (and largest) stars, Aaron Judge (6'7") and Giancarlo Stanton (6'6"), both of whom now play for the New York Yankees.
 
-Next, you will use the scikit-learn package to predict whether you can correctly classify a song's genre based on features such as danceability, energy, acousticness, tempo, etc. You will go over implementations of common algorithms such as PCA, logistic regression, decision trees, and so forth.
+The dataset used in this project is from [Baseball Savant](https://baseballsavant.mlb.com/about)
