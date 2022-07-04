@@ -1,9 +1,7 @@
-# Classify Song Genres from Audio Data
-**Python projects on DataCamp**
-
-Rock or rap? Apply machine learning methods in Python to classify songs into genres.
+# Risk and Returns: The Sharpe Ratio
+Use pandas to calculate and compare profitability and risk of different investments using the Sharpe Ratio.
 
 ## Project Description
-Using a dataset comprised of songs of two music genres (Hip-Hop and Rock), you will train a classifier to distinguish between the two genres based only on track information derived from Echonest (now part of Spotify). You will first make use of pandas and seaborn packages in Python for subsetting the data, aggregating information, and creating plots when exploring the data for obvious trends or factors you should be aware of when doing machine learning.
+When you assess whether to invest in an asset, you want to look not only at how much money you could make but also at how much risk you are taking. The Sharpe Ratio, developed by Nobel Prize winner William Sharpe some 50 years ago, does precisely this: it compares the return of an investment to that of an alternative and relates the relative return to the risk of the investment, measured by the standard deviation of returns.
 
-Next, you will use the scikit-learn package to predict whether you can correctly classify a song's genre based on features such as danceability, energy, acousticness, tempo, etc. You will go over implementations of common algorithms such as PCA, logistic regression, decision trees, and so forth.
+In this project, you will apply the Sharpe ratio to real financial data using pandas.
