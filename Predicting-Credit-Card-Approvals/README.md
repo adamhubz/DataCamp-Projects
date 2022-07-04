@@ -1,5 +1,4 @@
 # Predicting Credit Card Approvals
-**Python projects on DataCamp**
 
 Build a machine learning model to predict if a credit card application will get approved.
 
