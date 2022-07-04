@@ -1,9 +1,7 @@
-# Classify Song Genres from Audio Data
-**Python projects on DataCamp**
-
-Rock or rap? Apply machine learning methods in Python to classify songs into genres.
+# Recreating John Snow's Ghost Map
+Recreate John Snow's famous map of the 1854 cholera outbreak in London.
 
 ## Project Description
-Using a dataset comprised of songs of two music genres (Hip-Hop and Rock), you will train a classifier to distinguish between the two genres based only on track information derived from Echonest (now part of Spotify). You will first make use of pandas and seaborn packages in Python for subsetting the data, aggregating information, and creating plots when exploring the data for obvious trends or factors you should be aware of when doing machine learning.
+In 1854, Dr. John Snow (no, not the Game of Thrones's character) used a pre-computer method of spatial analysis by mapping patterns and occurrences of cholera outbreaks in Soho, London. He mapped the deaths in the neighbourhood and determined that a vast majority occurred around one particular water well and that those that died used that well.
 
-Next, you will use the scikit-learn package to predict whether you can correctly classify a song's genre based on features such as danceability, energy, acousticness, tempo, etc. You will go over implementations of common algorithms such as PCA, logistic regression, decision trees, and so forth.
+This is not only one of the earliest uses of data visualization, but by solving this problem, Dr. John Snow also founded spatial analysis and modern epidemiology. In this Python project, you will reanalyze the data and recreate his famous map.
