@@ -1,7 +1,5 @@
 # The Android App Market on Google Play
 
-**Python projects on DataCamp**
-
 Load, clean, and visualize scraped Google Play Store data to gain insights into the Android app market.
 
 ## Project Description
