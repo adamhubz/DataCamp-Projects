@@ -1,9 +1,7 @@
-# Classify Song Genres from Audio Data
-**Python projects on DataCamp**
-
-Rock or rap? Apply machine learning methods in Python to classify songs into genres.
+# The GitHub History of the Scala Language
+Find the true Scala experts by exploring its development history in Git and GitHub.
 
 ## Project Description
-Using a dataset comprised of songs of two music genres (Hip-Hop and Rock), you will train a classifier to distinguish between the two genres based only on track information derived from Echonest (now part of Spotify). You will first make use of pandas and seaborn packages in Python for subsetting the data, aggregating information, and creating plots when exploring the data for obvious trends or factors you should be aware of when doing machine learning.
+Open source projects contain entire development histories, such as who made changes, the changes themselves, and code reviews. In this project, you'll be challenged to read in, clean up, and visualize the real-world project repository of Scala that spans data from a version control system (Git) as well as a project hosting site (GitHub). With almost 30,000 commits and a history spanning over ten years, Scala is a mature language. You will find out who has had the most influence on its development and who are the experts.
 
-Next, you will use the scikit-learn package to predict whether you can correctly classify a song's genre based on features such as danceability, energy, acousticness, tempo, etc. You will go over implementations of common algorithms such as PCA, logistic regression, decision trees, and so forth.
+The dataset includes the project history of [Scala](http://www.scala-lang.org/) retrieved from Git and GitHub as a set of CSV files.
