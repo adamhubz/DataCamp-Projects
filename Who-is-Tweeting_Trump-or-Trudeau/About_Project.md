@@ -1,9 +1,9 @@
-# Classify Song Genres from Audio Data
+# Who's Tweeting? Trump or Trudeau?
 **Python projects on DataCamp**
 
-Rock or rap? Apply machine learning methods in Python to classify songs into genres.
+Build a machine learning classifier that knows whether President Trump or Prime Minister Trudeau is tweeting!
 
 ## Project Description
-Using a dataset comprised of songs of two music genres (Hip-Hop and Rock), you will train a classifier to distinguish between the two genres based only on track information derived from Echonest (now part of Spotify). You will first make use of pandas and seaborn packages in Python for subsetting the data, aggregating information, and creating plots when exploring the data for obvious trends or factors you should be aware of when doing machine learning.
+Let's apply our natural language processing knowledge to Twitter. Tweets are notoriously difficult, as they are shorter than most texts and usually have hard-to-parse content like hashtags, mentions, links and emoji.
 
-Next, you will use the scikit-learn package to predict whether you can correctly classify a song's genre based on features such as danceability, energy, acousticness, tempo, etc. You will go over implementations of common algorithms such as PCA, logistic regression, decision trees, and so forth.
+Despite the difficulties, tweets are fun content, so in this notebook we'll take a look at classifying two prominent North American politicians. Can we determine if it is Donald Trump or Justin Trudeau based on just a tweet? Let's see!
