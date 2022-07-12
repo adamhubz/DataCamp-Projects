@@ -1,9 +1,7 @@
-# Classify Song Genres from Audio Data
-**Python projects on DataCamp**
-
-Rock or rap? Apply machine learning methods in Python to classify songs into genres.
+# Writing Functions for Product Analysis
+Use coding best practices and functions to improve a script!
 
 ## Project Description
-Using a dataset comprised of songs of two music genres (Hip-Hop and Rock), you will train a classifier to distinguish between the two genres based only on track information derived from Echonest (now part of Spotify). You will first make use of pandas and seaborn packages in Python for subsetting the data, aggregating information, and creating plots when exploring the data for obvious trends or factors you should be aware of when doing machine learning.
+Have you ever started your data analysis and ended up with repetitive code? Repetitive code is a sign that functions are needed. Functions help keep our code flexible, maintainable, and interpretable.
 
-Next, you will use the scikit-learn package to predict whether you can correctly classify a song's genre based on features such as danceability, energy, acousticness, tempo, etc. You will go over implementations of common algorithms such as PCA, logistic regression, decision trees, and so forth.
+Our colleague Brenda, a product analyst, has written a script to pull Net Promotor Score (NPS) survey data from multiple sources to calculate the NPS score. This code works well, but it violates coding best practices, including Don't Repeat Yourself (DRY). Let's take a look at her code and write some functions for Brenda! To complete this project, you need to know how to write functions in Python and how to use pandas for DataFrame manipulation.
